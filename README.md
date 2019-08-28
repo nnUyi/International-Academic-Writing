@@ -13,7 +13,6 @@ The keynotes of the international academic writing.
     - [ACM PDF REQUIREMENTS FOR ACM DL PAPERS & ABSTRACTS](http://www.scomminc.com/pp/acmsig/ACM-DL-requirements.htm)
 - **writing tool:** overleaf/costumer latex complier/etc.
 
-----------------------------------------------------------------------------------------
 ## IEEE
 - updating
 

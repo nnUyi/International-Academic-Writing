@@ -5,13 +5,13 @@ The keynotes of the international academic writing.
   - [CCF Ranks](https://www.ccf.org.cn/xspj/gyml/)
 
 # Academic Writing Tools
-- **drawing tool:** Microsoft PowerPoint
-- **data analysis:** python + matplotlib/seabean/etc.
-- **pdf font type check:** Adobe Acrobat Pro (File->properities->font)
+- **Drawing Tool:** Microsoft PowerPoint
+- **Data Analysis:** python + matplotlib/seabean/etc.
+- **PDF Font Type Check:** Adobe Acrobat Pro (File->properities->font)
   - IEEE dl: Type1, TypeTrue
   - ACM dl: Type1, TypeTrue
     - [ACM PDF REQUIREMENTS FOR ACM DL PAPERS & ABSTRACTS](http://www.scomminc.com/pp/acmsig/ACM-DL-requirements.htm)
-- **writing tool:** overleaf/costumer latex complier/etc.
+- **Writing Tool:** overleaf/costumer latex complier/etc.
 
 ## IEEE
 - updating

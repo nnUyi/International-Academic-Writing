@@ -23,3 +23,5 @@ The keynotes of the international academic writing.
 - .bbl file
   - compile -> logs and output files -> end of the logs_and_output_files -> other logs & files -> bbl file
   
+## Academic Poster
+- [Poster Basics](https://guides.nyu.edu/posters)

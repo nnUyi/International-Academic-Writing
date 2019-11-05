@@ -5,7 +5,7 @@ The keynotes of the international academic writing.
   - [CCF Ranks](https://www.ccf.org.cn/xspj/gyml/)
 
 # Academic Writing Tools
-- **Drawing Tool:** Microsoft PowerPoint
+- **Drawing Tool:** Microsoft PowerPoint, opencv([heat map](https://blog.csdn.net/u013381011/article/details/78341861))
 - **Data Analysis:** python + matplotlib/seabean/etc.
 - **PDF Font Type Check:** Adobe Acrobat Pro (File->properities->font)
   - IEEE dl: Type1, TypeTrue

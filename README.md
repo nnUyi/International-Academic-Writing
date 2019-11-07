@@ -25,3 +25,6 @@ The keynotes of the international academic writing.
   
 ## Academic Poster
 - [Poster Basics](https://guides.nyu.edu/posters)
+
+## Academic Paper
+- [CVPR and ICCV paper list](http://openaccess.thecvf.com/menu.py)
